@@ -1,6 +1,6 @@
 # Lesley Chang's Home Base
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rasreee&repo=github-readme-stats)](https://github.com/rasreee/github-readme-stats)
+[![Rasreee's github stats](https://github-readme-stats.vercel.app/api?username=rasreee)](https://github.com/rasreee/github-readme-stats)
 
 🚗 [Personal Roadmap](https://www.notion.so/8bdd94c9cc204e8a812075cf8d187d01?v=7e02e6c1c6444b1cb68ab5bfeb1b8642)
 
