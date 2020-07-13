@@ -4,7 +4,7 @@
 
 my personal public roadmap.
 
-[Resume](https://rasreee-github-io.vercel.app/resume)
+[Resume]()
 
 wip personal website.
 
